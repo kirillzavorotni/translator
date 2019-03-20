@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.form-template-wrapp {
+  padding: 10px;
+  font-size: 15px;
+  color: #e94343;
+}
+.form-message:before {
+  content: '\2718';
+  padding-right: 5px;
+}
+
